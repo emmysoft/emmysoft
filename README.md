@@ -9,7 +9,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on Productive software Projects with startups and big tech companies
 - 💬 Ask me about working with you
-- 📫 How to reach me: emmanueloni45@gmail.com twitter@dev_emmy_99 Phone Number: 08149998467
+- 📫 How to reach me: emmanueloni45@gmail.com twitter@dev_emmy_99 Phone Number: +2348149998467
 - 😄 Pronouns: He
-- ⚡ Fun fact: I Love anything loveable 
+- ⚡ Fun fact: I Love Programming and Developing Applications
+Stack:
+HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js
 -->
