@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: I Love Programming and Developing Applications
 Stack:
-HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js
+HTML, CSS, JavaScript, React.js, Next.js, React Native
 -->
