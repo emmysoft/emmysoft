@@ -5,9 +5,8 @@ Hello there 👋, My Name is Emmanuel Adekunle-Oni, and I am a React Native/Reac
 </div>
 <br/>
 <div align="center">
-Contact Me 👉
-<a href="mailto:emmanueloni45@gmail.com"><img width="50" src="https://skillicons.dev/icons?i=gmail"> emmanueloni45@gmail.com</a> 
-<img width="50" src="https://skillicons.dev/icons?i=twitter"> https://twitter.com/@dev_emmy_99 
-<img width="50" src="https://skillicons.dev/icons?i=linkedin"> https://linkedin.com/in/emmanueloni
-<img width="50" src="https://skillicons.dev/icons?i=telephone"> https://wa.me/+2348149998467
+Contact Me <br/>
+<a href="mailto:emmanueloni45@gmail.com"><img width="50" src="https://skillicons.dev/icons?i=gmail"></a> 
+<a href="https://twitter.com/dev_emmy_99"><img width="50" src="https://skillicons.dev/icons?i=twitter"></a>
+<a href="https://linkedin.com/in/emmanueloni"><img width="50" src="https://skillicons.dev/icons?i=linkedin"></a>
 </div>
