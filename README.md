@@ -1,17 +1,10 @@
-### Hi there 👋
+Hello there, My Name is Emmanuel Adekunle-Oni, and I am a React Native/Reactjs/Nextjs Developer, I develop scalable and user friendly websites and cross platform mobile applications. I love to collaborate on Productive software Projects with individual developers, startups, and even work at big tech companies. You are free to ask me about working with you. I love building solutions with Softwares, I believe that is part of my contribution to making a better world.
 
-<!--
-**emmysoft/emmysoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Stack: HTML, CSS, JavaScript, TypeScript,React Native, React.js, Next.js, TailwindCss
 
-Here are some ideas to get you started:
+You can reach out to me on: 
+Gmail: emmanueloni45@gmail.com 
+Twitter: https://twitter.com/@dev_emmy_99
+Whatsapp/Phone Number: https://wa.me/+2348149998467
+Linkedin: https://linkedin.com/in/emmanueloni
 
-- 🔭 I’m currently working on Developing a Full Stack JavaScript Developer 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on Productive software Projects with startups and big tech companies
-- 💬 Ask me about working with you
-- 📫 How to reach me: emmanueloni45@gmail.com twitter@dev_emmy_99 Phone Number: +2348149998467
-- 😄 Pronouns: He
-- ⚡ Fun fact: I Love Programming and Developing Applications
-Stack:
-HTML, CSS, JavaScript, React.js, Next.js, React Native
--->
