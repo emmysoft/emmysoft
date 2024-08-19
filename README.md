@@ -1,4 +1,8 @@
-Hello there 👋, My Name is Emmanuel Adekunle-Oni, and I am a Frontend Developer, I develop scalable and user-friendly websites and cross-platform mobile applications. I love to collaborate on productive software projects with individual developers, and startups, and I look forward to working at top tech companies soon. You are free to ask me to work with you on any fun project or client project. I am also a web instructor, I do believe it is part of my ways to contribute to tech. I love building solutions with Software, I believe that is part of my contribution to making a better world.
+Hello! I'm Emmanuel Adekunle-Oni, a passionate Frontend Developer specializing in building scalable, user-friendly websites and cross-platform mobile applications.
+
+I thrive on collaborating with developers and startups to create impactful software solutions, and I am eager to contribute my skills to leading tech companies. With a strong commitment to continuous learning and innovation, I am always open to exciting projects and challenges.
+
+In addition to my development work, I am also dedicated to sharing my knowledge as a web development instructor, which I see as a way to give back to the tech community. My ultimate goal is to leverage software development to contribute to a better world.
 
 <div align="center">
   My Stack 👇: <br/> <img width="350" src="https://skillicons.dev/icons?i=react,next,html,css,javascript,typescript,tailwind,vercel,github,vscode,vite,netlify"/>
