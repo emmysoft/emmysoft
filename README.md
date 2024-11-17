@@ -5,7 +5,7 @@ I thrive on collaborating with developers and startups to create impactful softw
 In addition to my development work, I am also dedicated to sharing my knowledge as a web development instructor, which I see as a way to give back to the tech community. My ultimate goal is to leverage software development to contribute to a better world.
 
 <div align="center">
-  My Stack 👇: <br/> <img width="350" src="https://skillicons.dev/icons?i=react,next,html,css,javascript,typescript,tailwind,vercel,github,vscode,vite,netlify"/>
+  My Stack 👇: <br/> <img width="350" src="https://skillicons.dev/icons?i=react,next,html,css,javascript,typescript,tailwind,vercel,github,vscode,vite,netlify,expo"/>
 </div>
 <br/>
 <div align="center">
